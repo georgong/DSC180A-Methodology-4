@@ -1,5 +1,5 @@
 **Name:** Zhenghao Gong  
-**Email:** zgong@ucsd.edu  
+**Email:** z3gong@ucsd.edu  
 **Section:** From Data to Dispatch - Optimizing SDG&E Field Services
 **Mentor:** Phi Nguyen, Chuck Hahm, Fatemeh Aarabi
 ---
